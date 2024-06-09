@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is my React Learing Journey",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikashpdyadav/Learning_React.git"
+  },
+  "keywords": [],
+  "author": "Bikash Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikashpdyadav/Learning_React/issues"
+  },
+  "homepage": "https://github.com/bikashpdyadav/Learning_React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
