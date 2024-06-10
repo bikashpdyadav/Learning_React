@@ -1,3 +1,5 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
 /*
 Insert Hello World from Javascript
 
@@ -9,9 +11,9 @@ root.appendChild(heading);
 
 const container = React.createElement("div",{id:"mainDiv"},
     [React.createElement("div",{id:"subDiv1"},
-    React.createElement("h1",{id:"subDiv1Header"},"Hello")),
-    React.createElement("div",{id:"subDiv1"},
-    React.createElement("h1",{id:"subDiv1Header"},"Hello"))]
+    React.createElement("h1",{id:"subDivHeader1"},"Hello1")),
+    React.createElement("div",{id:"subDiv2"},
+    React.createElement("h1",{id:"subDivHeader2"},"Hello2"))]
 );
 
 //console.log(container);
